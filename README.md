@@ -83,7 +83,7 @@ A personal project focused on building a more capable **desktop AI assistant** w
 <div align="center">
 
 <!-- Replace YOUR_USERNAME below to activate your personal stats. -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b0b12&title_color=a78bfa&icon_color=8b5cf6&text_color=d4d4d8" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sinisterzs&show_icons=true&hide_border=true&bg_color=0b0b12&title_color=a78bfa&icon_color=8b5cf6&text_color=d4d4d8" height="165" alt="GitHub statistics" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b0b12&title_color=a78bfa&text_color=d4d4d8" height="165" alt="Most used languages" />
 
 </div>
@@ -93,8 +93,8 @@ A personal project focused on building a more capable **desktop AI assistant** w
 Open to exchanging ideas about **software development, automation, and artificial intelligence**.
 
 <!-- Add your real links here when you're ready. -->
-**GitHub:** `github.com/YOUR_USERNAME`  
-**Email:** `YOUR_EMAIL`
+**GitHub:** `github.com/Sinisterzs`  
+**Email:** `kelale66@gmail.com`
 
 ---
 
