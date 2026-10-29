@@ -24,7 +24,7 @@ class Ezequiel:
     mindset = "Learn. Build. Refine. Repeat."
 ```
 
-Hey, I'm **Ezequiel** — a developer passionate about turning complex ideas into real projects.
+Hey, I'm **Kel** — a developer passionate about turning complex ideas into real projects.
 
 I'm especially interested in **AI agents, backend systems, automation, and desktop applications**. I like understanding how things work under the hood, experimenting with new technologies, and improving the performance and experience of what I build.
 
