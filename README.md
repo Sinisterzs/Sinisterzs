@@ -2,7 +2,7 @@
 
 <!-- Replace YOUR_USERNAME with your GitHub username where applicable. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090f,45:28153c,100:6d28d9&text=EZEQUIEL%20KRETZSCHMAR&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%2F%20AUTOMATION%20%2F%20AI&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Ezequiel Kretzschmar — Developer / Automation / AI" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090f,45:28153c,100:6d28d9&text=Sinisterzs%20Kel&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%2F%20AUTOMATION%20%2F%20AI&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Sinisterzs - Kel — Developer / Automation / AI" />
 
 ### `> building ideas into reality_`
 
